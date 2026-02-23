@@ -1,9 +1,3 @@
-# Application Folder
-
-## Contents
-
-- General
-- Directory Location
 - Built-In Applications
 - NuttShell (NSH) Built-In Commands
 - Synchronous Built-In Commands
