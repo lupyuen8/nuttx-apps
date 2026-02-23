@@ -1,14 +1,3 @@
-# Application Folder
-
-## Contents
-
-- General
-- Directory Location
-- Built-In Applications
-- NuttShell (NSH) Built-In Commands
-- Synchronous Built-In Commands
-- Application Configuration File
-- Example Built-In Application
 - Building NuttX with Board-Specific Pieces Outside the Source Tree
 
 ## General
